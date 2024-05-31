@@ -9,7 +9,7 @@ app.use(cors());
 
 app.use("/" ,router);
 
-const PORT = 8000;
+const PORT = 10000;
 
 DBconnection();
 
